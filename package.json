@@ -22,7 +22,7 @@
 		"express": "4.16.x",
 		"uglify-js": "~2.7.0",
 		"winston": "~2.2.0"
-	},
+	}
 	"scripts": {
 		"start": "node ./server.js"
 	}
